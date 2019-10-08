@@ -3,7 +3,7 @@
 
 | 序号 | 考点 | 题目 |
 | -- | -- | -- |
-| 1 |  数组 | [二位数组中的查找]() |
+| 1 |  数组 | [二位数组中的查找](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/LookupInATwoDimensionalArray.java) |
 | 2 |  字符串 | [替换空格](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ReplaceSpace.java) |
 | 3 |  链表 | [	从尾到头打印链表]() |
 | 4 |  树 | [重建二叉树](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ReconstructTheBinaryTree.java) |
@@ -18,3 +18,4 @@
 | 13 |  代码的鲁棒性 | [合并两个排序的链表](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/MergeTwoSortedLinkedLists.java) |
 | 14 |  举例让抽象具体化 | [包含min函数的栈](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/MinStack.java) |
 | 15 |  时间效率 | [最小的K个数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/GetLeastNumbers.java) |
+| 16 |  递归和循环 | [矩形覆盖](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/RectangularCover.java) |
