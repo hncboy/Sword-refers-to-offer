@@ -19,3 +19,4 @@
 | 14 |  举例让抽象具体化 | [包含min函数的栈](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/MinStack.java) |
 | 15 |  时间效率 | [最小的K个数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/GetLeastNumbers.java) |
 | 16 |  递归和循环 | [矩形覆盖](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/RectangularCover.java) |
+| 17 |  代码的完整性 | [数值的整数次方](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/NumericalIntegerPower.java) |
