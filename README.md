@@ -20,3 +20,4 @@
 | 15 |  时间效率 | [最小的K个数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/GetLeastNumbers.java) |
 | 16 |  递归和循环 | [矩形覆盖](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/RectangularCover.java) |
 | 17 |  代码的完整性 | [数值的整数次方](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/NumericalIntegerPower.java) |
+| 18 |  代码的完整性 | [调整数组顺序使奇数位于偶数前面](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ReOrderArray.java) |
