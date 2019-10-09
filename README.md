@@ -22,3 +22,4 @@
 | 17 |  代码的完整性 | [数值的整数次方](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/NumericalIntegerPower.java) |
 | 18 |  代码的完整性 | [调整数组顺序使奇数位于偶数前面](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ReOrderArray.java) |
 | 19 |  代码的鲁棒性 | [树的子结构](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/SubstructureOfTheTree.java) |
+| 20 |   画图让抽象形象化 | [顺时针打印矩阵](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ClockwisePrintingMatrix.java) |
