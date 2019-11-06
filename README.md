@@ -27,3 +27,4 @@
 | 22 | 举例让抽象具体化 | [栈的压入、弹出序列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/PushAndPopOfTheStack.java) |
 | 23 | 举例让抽象具体化 | [从上往下打印二叉树](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/PrintBinaryTreeFromTopToBottom.java) |
 | 24 | 举例让抽象具体化 | [二叉搜索树的后序遍历序列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/PostOrderTraversalSequenceOfBinarySearchTree.java) |
+| 25 | 举例让抽象具体化 | [二叉树中和为某一值的路径](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/TheBinaryTreeNeutralizesThePathToACertainValue.java) |
