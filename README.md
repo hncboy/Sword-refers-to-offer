@@ -5,7 +5,7 @@
 | -- | -- | -- |
 | 1 | 数组 | [二位数组中的查找](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/LookupInATwoDimensionalArray.java) |
 | 2 | 字符串 | [替换空格](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ReplaceSpace.java) |
-| 3 | 链表 | [	从尾到头打印链表]() |
+| 3 | 链表 | [从尾到头打印链表](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/PrintTheLinkedListFromEndToEnd.java) |
 | 4 | 树 | [重建二叉树](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ReconstructTheBinaryTree.java) |
 | 5 | 栈和队列 | [用两个栈实现队列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/QueueWithTwoStacks.java) |
 | 6 | 查找和排序 | [旋转数组的最小数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/MinNumberInRotateArray.java) |

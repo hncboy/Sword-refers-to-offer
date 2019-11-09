@@ -20,13 +20,13 @@ public class ReverseList {
         head.next = null;
         return reverseHead;
     }
-}
 
-class ListNode {
-    int val;
-    ListNode next = null;
+    private static class ListNode {
+        int val;
+        ListNode next = null;
 
-    ListNode(int val) {
-        this.val = val;
+        ListNode(int val) {
+            this.val = val;
+        }
     }
 }
