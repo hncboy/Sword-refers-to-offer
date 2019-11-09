@@ -67,6 +67,12 @@ public class ArrangementOfStrings {
         return result;
     }
 
+    /**
+     * 反转 chars 数组中 k 位置后的所有字符
+     *
+     * @param chars
+     * @param k
+     */
     private void reverse(char[] chars, int k) {
         if (chars == null || chars.length <= k) {
             return;
@@ -82,6 +88,13 @@ public class ArrangementOfStrings {
         }
     }
 
+    /**
+     * 交换 chars[i] 和 chars[j]
+     *
+     * @param chars
+     * @param i
+     * @param j
+     */
     private void swap(char[] chars, int i, int j) {
         char temp = chars[i];
         chars[i] = chars[j];
