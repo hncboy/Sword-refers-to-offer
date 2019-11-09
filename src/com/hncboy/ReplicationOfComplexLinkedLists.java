@@ -1,3 +1,5 @@
+package com.hncboy;
+
 import java.util.HashMap;
 import java.util.Map;
 

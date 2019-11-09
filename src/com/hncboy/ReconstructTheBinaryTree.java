@@ -1,3 +1,5 @@
+package com.hncboy;
+
 /**
  * Created by IntelliJ IDEA.
  * User: hncboy
