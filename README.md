@@ -30,3 +30,4 @@
 | 25 | 举例让抽象具体化 | [二叉树中和为某一值的路径](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/TheBinaryTreeNeutralizesThePathToACertainValue.java) |
 | 26 | 分解让复杂问题简单 | [复杂链表的复制](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ReplicationOfComplexLinkedLists.java) |
 | 27 | 分解让复杂问题简单 | [二叉搜索树与双向链表](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/BinarySearchTreeAndDoublyLinkedList.java) |
+| 28 | 分解让复杂问题简单 | [字符串的排列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/ArrangementOfStrings.java) |
