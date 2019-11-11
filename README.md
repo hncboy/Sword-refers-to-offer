@@ -33,10 +33,4 @@
 | 28 | 时间效率 | [数组中出现次数超过一半的数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/NumberOfOccurrencesInTheArrayThatExceedsHalf.java) |
 | 29 | 时间效率 | [最小的K个数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/GetLeastNumbers.java) |
 | 30 | 时间效率 | [连续子数组的最大和](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/TheLargestSumOfConsecutiveSubarrays.java) |
-
-
-
-
-
-
-
+| 31 | 时间效率 | [整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/TheNumberOfOccurrencesOf1InAnInteger.java) |
