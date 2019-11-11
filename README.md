@@ -32,6 +32,7 @@
 | 27 | 分解让复杂问题简单 | [字符串的排列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/ArrangementOfStrings.java) |
 | 28 | 时间效率 | [数组中出现次数超过一半的数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/NumberOfOccurrencesInTheArrayThatExceedsHalf.java) |
 | 29 | 时间效率 | [最小的K个数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/GetLeastNumbers.java) |
+| 30 | 时间效率 | [连续子数组的最大和](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/TheLargestSumOfConsecutiveSubarrays.java) |
 
 
 
