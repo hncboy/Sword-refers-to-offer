@@ -36,3 +36,4 @@
 | 31 | 时间效率 | [整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/TheNumberOfOccurrencesOf1InAnInteger.java) |
 | 32 | 时间效率 | [把数组排成最小的数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/ArrangeTheArrayToTheSmallestNumber.java) |
 | 33 | 时间空间效率的平衡 | [丑数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/UglyNumber.java) |
+| 34 | 时间空间效率的平衡 | [第一个只出现一次的字符](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/TheFirstCharacterThatAppearsOnlyOnce.java) |
