@@ -38,3 +38,4 @@
 | 33 | 时间空间效率的平衡 | [丑数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/UglyNumber.java) |
 | 34 | 时间空间效率的平衡 | [第一个只出现一次的字符](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/TheFirstCharacterThatAppearsOnlyOnce.java) |
 | 36 | 时间空间效率的平衡 | [两个链表的第一个公共结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/FindFirstCommonNode.java) |
+| 37 | 知识迁移能力 | [数字在排序数组中出现的次数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic37.java) |
