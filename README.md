@@ -41,3 +41,4 @@
 | 37 | 知识迁移能力 | [数字在排序数组中出现的次数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic37.java) |
 | 38 | 知识迁移能力 | [二叉树的深度](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic38.java) |
 | 39 | 知识迁移能力 | [	平衡二叉树](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic39.java) |
+| 40 | 知识迁移能力 | [数组中只出现一次的数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic40.java) |
