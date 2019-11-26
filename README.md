@@ -44,3 +44,4 @@
 | 40 | 知识迁移能力 | [数组中只出现一次的数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic40.java) |
 | 41 | 知识迁移能力 | [和为S的连续正数序列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic41.java) |
 | 42 | 知识迁移能力 | [和为S的两个数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic42.java) |
+| 43 | 知识迁移能力 | [左旋转字符串](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic43.java) |
