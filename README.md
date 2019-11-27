@@ -47,3 +47,4 @@
 | 43 | 知识迁移能力 | [左旋转字符串](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic43.java) |
 | 44 | 知识迁移能力 | [翻转单词顺序列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic44.java) |
 | 45 | 抽象建模能力 | [扑克牌顺子](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic45.java) |
+| 46 | 抽象建模能力 | [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic46.java) |
