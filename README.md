@@ -1,5 +1,5 @@
 # Sword-refers-to-offer
-[牛客网 剑指Offer 66题](https://www.nowcoder.com/ta/coding-interviews?page=1)
+[牛客网 剑指Offer 67题](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
 | 序号 | 考点 | 题目 |
 | -- | -- | -- |
@@ -46,3 +46,4 @@
 | 42 | 知识迁移能力 | [和为S的两个数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic42.java) |
 | 43 | 知识迁移能力 | [左旋转字符串](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic43.java) |
 | 44 | 知识迁移能力 | [翻转单词顺序列](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic44.java) |
+| 45 | 抽象建模能力 | [扑克牌顺子](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic45.java) |
