@@ -49,4 +49,5 @@
 | 45 | 抽象建模能力 | [扑克牌顺子](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic45.java) |
 | 46 | 抽象建模能力 | [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic46.java) |
 | 47 | 发散思维能力 | [求1+2+3+...+n](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic47.java) |
-| 48 | 发散思维能力 | [不用加减乘除做加法](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic47.java) |
+| 48 | 发散思维能力 | [不用加减乘除做加法](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic48.java) |
+| 49 | 综合 | [把字符串转换成整数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic49.java) |
