@@ -37,6 +37,7 @@
 | 32 | 时间效率 | [把数组排成最小的数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic32.java) |
 | 33 | 时间空间效率的平衡 | [丑数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic33.java) |
 | 34 | 时间空间效率的平衡 | [第一个只出现一次的字符](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic34.java) |
+| 35 | 时间空间效率的平衡 | 数组中的逆序对 
 | 36 | 时间空间效率的平衡 | [两个链表的第一个公共结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic36.java) |
 | 37 | 知识迁移能力 | [数字在排序数组中出现的次数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic37.java) |
 | 38 | 知识迁移能力 | [二叉树的深度](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic38.java) |
@@ -53,3 +54,6 @@
 | 49 | 综合 | [把字符串转换成整数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic49.java) |
 | 50 | 数组 | [数组中重复的数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic50.java) |
 | 51 | 数组 | [构建乘积数组](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic51.java) |
+| 52 | 字符串 | 正则表达式匹配 
+| 53 | 字符串 | 表示数值的字符串 
+| 54 | 字符串 | [字符流中第一个不重复的字符](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic54.java) |
