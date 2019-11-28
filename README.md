@@ -59,3 +59,4 @@
 | 54 | 字符串 | [字符流中第一个不重复的字符](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic54.java) |
 | 55 | 链表 | [链表中环的入口结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic55.java) |
 | 56 | 链表 | [删除链表中重复的结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic56.java) |
+| 57 | 树 | [二叉树的下一个结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic57.java) |
