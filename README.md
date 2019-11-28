@@ -52,3 +52,4 @@
 | 48 | 发散思维能力 | [不用加减乘除做加法](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic48.java) |
 | 49 | 综合 | [把字符串转换成整数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic49.java) |
 | 50 | 数组 | [数组中重复的数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic50.java) |
+| 51 | 数组 | [构建乘积数组](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic51.java) |
