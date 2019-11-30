@@ -1,6 +1,8 @@
 # Sword-refers-to-offer
 [牛客网 剑指Offer 67题](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
+2019.11.30 第一遍剑指Offer 刷题结束
+
 | 序号 | 考点 | 题目 |
 | -- | -- | -- |
 | 1 | 数组 | [二位数组中的查找](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic1.java) |
@@ -37,7 +39,7 @@
 | 32 | 时间效率 | [把数组排成最小的数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic32.java) |
 | 33 | 时间空间效率的平衡 | [丑数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic33.java) |
 | 34 | 时间空间效率的平衡 | [第一个只出现一次的字符](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic34.java) |
-| 35 | 时间空间效率的平衡 | 数组中的逆序对 
+| 35 | 时间空间效率的平衡 | [数组中的逆序对](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic35.java) |
 | 36 | 时间空间效率的平衡 | [两个链表的第一个公共结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic36.java) |
 | 37 | 知识迁移能力 | [数字在排序数组中出现的次数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic37.java) |
 | 38 | 知识迁移能力 | [二叉树的深度](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic38.java) |
