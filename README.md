@@ -55,7 +55,7 @@
 | 50 | 数组 | [数组中重复的数字](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic50.java) |
 | 51 | 数组 | [构建乘积数组](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic51.java) | 
 | 52 | 字符串 | [正则表达式匹配](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic52.java) |
-| 53 | 字符串 | 表示数值的字符串 
+| 53 | 字符串 | [表示数值的字符串](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic53.java) |
 | 54 | 字符串 | [字符流中第一个不重复的字符](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic54.java) |
 | 55 | 链表 | [链表中环的入口结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic55.java) |
 | 56 | 链表 | [删除链表中重复的结点](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic56.java) |
