@@ -34,22 +34,22 @@ public class Topic65 {
         return false;
     }
 
-    private boolean backTrack(char[] matrix, boolean[][] status, int x, int y, int count, char[] target) {
-        if (x >= 0 && x < status.length && y >= 0 && y < status[0].length) {
-            if (!status[x][y] && matrix[x * status[0].length + y] == target[count]) {
+    private boolean backTrack(char[] matrix, boolean[][] visited, int i, int j, int count, char[] target) {
+        if (i >= 0 && i < visited.length && j >= 0 && j < visited[0].length) {
+            if (!visited[i][j] && matrix[i * visited[0].length + j] == target[count]) {
                 // 只要找到符合的字符串就返回 true‘
                 if (count == target.length - 1) {
                     return true;
                 }
-                status[x][y] = true;
+                visited[i][j] = true;
                 // 向四个方向遍历
-                if (backTrack(matrix, status, x, y - 1, count + 1, target)
-                        || backTrack(matrix, status, x, y + 1, count + 1, target)
-                        || backTrack(matrix, status, x - 1, y, count + 1, target)
-                        || backTrack(matrix, status, x + 1, y, count + 1, target)) {
+                if (backTrack(matrix, visited, i, j - 1, count + 1, target)
+                        || backTrack(matrix, visited, i, j + 1, count + 1, target)
+                        || backTrack(matrix, visited, i - 1, j, count + 1, target)
+                        || backTrack(matrix, visited, i + 1, j, count + 1, target)) {
                     return true;
                 }
-                status[x][y] = false;
+                visited[i][j] = false;
             }
         }
         return false;

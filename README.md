@@ -68,3 +68,5 @@
 | 63 | 树 | [数据流中的中位数](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic63.java) |
 | 64 | 栈和队列 | [滑动窗口的最大值](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic64.java) |
 | 65 | 回溯法 | [矩阵中的路径](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic65.java) |
+| 66 | 回溯法 | [机器人的运动范围](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic66.java) |
+| 67 | 动态规划与贪婪 | [剪绳子](https://github.com/hncboy/Sword-refers-to-offer/blob/master/src/com/hncboy/Topic67.java) |
