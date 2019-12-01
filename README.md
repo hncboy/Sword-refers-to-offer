@@ -1,7 +1,4 @@
-# Sword-refers-to-offer
-[牛客网 剑指Offer 67题](https://www.nowcoder.com/ta/coding-interviews?page=1)
-
-2019.11.30 第一遍剑指Offer 刷题结束
+# [牛客网 剑指Offer 67题](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
 | 序号 | 考点 | 题目 |
 | -- | -- | -- |
